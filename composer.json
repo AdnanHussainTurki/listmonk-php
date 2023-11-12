@@ -1,0 +1,21 @@
+{
+    "name": "adnanhussainturki/listmonk-php",
+    "description": "Package aims to ease up the API calls to a listmonk API from PHP based application",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AdnanHussainTurki\\ListMonk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adnan Hussain Turki",
+            "email": "adnanhussainturki@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
