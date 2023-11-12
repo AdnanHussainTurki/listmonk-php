@@ -10,7 +10,7 @@ You can install this library to your project via composer using the following co
 ### Usage
 
 
-```
+```php
 <?php
 
 require __DIR__ . 'vendor/autoload.php';
